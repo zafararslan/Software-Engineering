@@ -1,6 +1,8 @@
 # Microservices Architecture Pattern Language
 * Application Patterns
-  * Decomposition
+  * Decomposition of an Application into Services
+    * Decompose by Business capability 
+    * Decompose by Subdomain
   * Database Architecture
   * Querying
   * Data Consistency
