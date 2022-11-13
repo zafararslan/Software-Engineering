@@ -2,7 +2,7 @@
 ### Secure Software Engineering
 * Domains
   * Model Driven Software Engineering
-  * Software Architecture
+  * Software Design and Architecture
   * Microservices Patterns
   * Software Supply Chain Security
   * DevOps
