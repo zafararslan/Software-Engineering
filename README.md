@@ -1,13 +1,16 @@
 ## Software-Engineering
 ### Secure Software Engineering
 * Domains
+  * Software Engineering
   * Model Driven Software Engineering
-  * Software Design and Architecture
-  * Microservices Patterns
-  * Software Supply Chain Security
-  * DevOps
-  * DevSecOps
-  * Site Reliability Engineering (SRE)
+  * Software Design & Architecture
+  * Software Quality Engineering
+  * Software Construction
+  * Software Project Management
+  * Design Patterns
+    * Microservices Patterns
+  * Software Testing
+
 
 * Content
   * Domain Knowledge
